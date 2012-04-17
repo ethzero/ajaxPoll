@@ -14,4 +14,4 @@ This code is assumed to be public domain, with the article Copyright © 2009 Nic
 
 Authors
 -------
-Nick Riggs <@nickriggs>
+Nick Riggs <@nickriggs> [http://www.nickriggs.com]
