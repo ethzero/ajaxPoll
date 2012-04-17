@@ -1,3 +1,16 @@
+/*
+    Origins:
+        Name:   ajaxPoll.js
+        Author: Nick Riggs
+        Source: http://69.89.31.214/~nickrigg/wp-content/uploads/2009/08/ajaxPoll.js
+        Documentation: http://www.nickriggs.com/posts/simple-ajax-polling-plugin-for-jquery/
+
+    GitHub:
+        Uploaded-by: ethzero
+        Source: https://github.com/ethzero/ajaxPoll
+
+*/
+
 (function($) {
 
     jQuery.ajaxPoll = function(s) {
